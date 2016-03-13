@@ -1,1 +1,3 @@
 Text inside test02.txt file
+
+Stashed
