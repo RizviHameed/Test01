@@ -3,3 +3,5 @@ Text inside test02.txt file
 Stashed
 
 In branch 2.0
+
+local commit
